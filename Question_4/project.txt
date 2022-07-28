@@ -1,0 +1,22 @@
+Project Title:  Online Food Ordering Web Application - Zomato clone
+
+Technologies Used:
+    Front End: HTML, CSS, tailwind CSS JavaScript, ReactJs;
+    BackEnd : Expressjs, Nodejs, MongoDB
+    Tools: AWS, Postman, MongoDB atlas, Git
+
+
+DESCRIPTION:
+
+1. Developed a Online Food Ordering Web Application that is Zomato clone using MERN stack.
+2. Utilised HTML, CSS, Tailwind CSS, JavaScript, ReactJs to create client side.
+3. In Front end we have pages like:
+                Public Pages - Avaiable before&after signin
+                    HomePage- Delivery, DiningOut, Nightlife, Restaurant 
+                Private Pages - Avaiable only after signin
+                    cart, settings
+4. Utilised Nodejs, Expressjs, MongoDB for BackEnd.
+5. For signin and signup with google, authenticated google auth for  signin with google using "passport library".
+6. Utilised AWSs3 as block storage for storing images.
+7. Used MongoDB Atlas for storing Database.
+8. Used Postman to add, change, get data to MongoDB atlas using HTTP GET, POST, PUT requests.
