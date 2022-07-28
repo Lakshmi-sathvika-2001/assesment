@@ -1,0 +1,86 @@
+:root {    
+  --purple: rgba(85, 83, 183, 0.5);
+  --green: #2dd35c;
+}
+
+body {
+  position: absolute;
+}
+
+.vl {
+  position: absolute;
+  border-left: 3px solid rgb(17, 17, 17);
+  height: 250px;  
+  margin: 20px;
+  left: 2%;
+  margin-left: 3px;  
+}
+
+.div1 {
+width: 500px;
+height: 190px;
+margin-top:46px;
+margin-left: 14px;
+border-radius: 0px 15vw 15px 0px;
+border: 2px solid var(--green);
+}
+
+.button1 {
+border-radius: 50px;
+color: white;
+height: 36px;
+width: 100px;
+padding: 1px 6px;
+text-indent: -3px;
+text-align: center;
+font-weight: bold;
+display: inline-block;
+font-size: 12px;
+margin: 15px 2px;
+margin-left: 50px;
+background-color: #2DD35C; 
+border:none;
+cursor: pointer;
+}
+
+.button2 {
+border-radius: 50px;
+color: white;
+height: 36px;
+width: 100px;
+padding: 1px 6px;
+text-indent: 2%;
+text-align: center;  
+font-weight: bold;
+display: inline-block;
+font-size: 12px;
+margin: 15px 2px;
+background-color: white; 
+color:#5553B7;
+border-color:#5553B7;
+border-style: solid;
+cursor: pointer;  
+}
+
+#rcorners1 {
+  border-radius: 500px 0px 0px 30px;
+  background: rgba(198,198,229,255);
+  position: relative;
+  left:310px;
+  bottom:120px;
+  padding: 20px; 
+  width: 350px;
+  height: 65px; 
+  background-color: var(--purple);    
+  backdrop-filter:blur(3px);
+}
+
+h2{
+  font-family:sans-serif;    
+  text-decoration: None;
+  position: relative;
+  font-weight: bold;    
+  top: 20px;
+  left: 50px;
+  padding: 0%;
+}

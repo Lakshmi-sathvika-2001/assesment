@@ -1,5 +1,7 @@
 Project Title:  Online Food Ordering Web Application - Zomato clone
 
+url - https://github.com/Lakshmi-sathvika-2001/MERN-project
+
 Technologies Used:
     Front End: HTML, CSS, tailwind CSS JavaScript, ReactJs;
     BackEnd : Expressjs, Nodejs, MongoDB
